@@ -1,0 +1,25 @@
+* {
+    font-family: cursive
+}
+
+
+h3 {
+    color: rgb(92, 206, 183)
+}
+
+/*class selector*/
+.my_class {
+    color:
+        blue
+}
+
+/*id selector*/
+#my_id {
+    color: rgb(201, 9, 201)
+}
+
+/*group seletor*/
+h5,
+p {
+    coloR: aquamarine
+}
